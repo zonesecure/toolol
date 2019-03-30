@@ -729,7 +729,7 @@ then
 clear
 sleep 1
 echo $red
-cat toolol.about
+cat .toolol.about
 echo ""
 sleep 1
 echo "\033[37;1m{+}\033[32;1m----------------------------------------------------\033[37;1m{+}"
